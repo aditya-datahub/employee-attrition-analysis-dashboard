@@ -124,9 +124,3 @@ employee-attrition-analysis-dashboard/
 This project is licensed under the **MIT License**.
 
 ---
-
-## 👤 Author
-**Aditya Sharma**  
-Aspiring Data Analyst | SQL | Python | Power BI | Excel  
-
-GitHub: https://github.com/aditya-datahub
